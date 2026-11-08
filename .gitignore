@@ -1,0 +1,22 @@
+# 依赖与构建产物
+node_modules/
+www/
+
+# 安卓构建产物
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/capacitor-cordova-android-plugins/
+
+# 签名材料：绝不入库
+android/keystore.properties
+*.jks
+*.keystore
+
+# 测试中间产物
+test-artifacts/
+
+# 系统文件
+.DS_Store
+Thumbs.db

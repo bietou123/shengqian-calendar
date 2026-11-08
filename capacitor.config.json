@@ -1,0 +1,12 @@
+{
+  "appId": "top.arrowwood.shengqian",
+  "appName": "省钱日历",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false,
+    "webContentsDebuggingEnabled": true
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

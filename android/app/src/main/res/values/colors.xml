@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 与前端背景色变量保持一致，避免状态栏/导航栏出现灰色断层 -->
+    <color name="colorPrimary">#0D0F14</color>
+    <color name="colorPrimaryDark">#0D0F14</color>
+    <color name="colorAccent">#D9A441</color>
+    <color name="appBackground">#0D0F14</color>
+</resources>
